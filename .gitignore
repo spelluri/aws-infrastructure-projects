@@ -1,0 +1,1 @@
+# blocks .pem, .tfstate, .env, *.tfvars — won't leak you
